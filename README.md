@@ -12,6 +12,9 @@ Estructura de Datos y Algoritmos I, Universidad Nacional de Lujan
 Apellido y Nombre // Legajo // Mails
 
 Calligo Fernando           // 203577 // fernandocalligo@gmail.com
+
 Cirigliano Julian Martin   // 190129 // juliancirigliano011@gmail.com
+
 Harbin Ignacio Tomás       // 190215 // harbinignacio@gmail.com
+
 Bracho Norberto Alexander  // 189202 // norbertobracho17@gmail.com
