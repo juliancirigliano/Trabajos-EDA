@@ -3,7 +3,7 @@
 #include <string.h>
 #include "tp_1_recursividad.h"
 #include "funciones_propias_recursividad.h"
-//#include "../libs/validaciones/headers/validaciones.h"
+#include "../libs/validaciones/headers/validaciones.h"
 
 
 //Aclaracion importante: 
