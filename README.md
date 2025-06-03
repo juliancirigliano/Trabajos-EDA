@@ -17,4 +17,6 @@ Cirigliano Julian Martin   // 190129 // juliancirigliano011@gmail.com
 
 Harbin Ignacio Tomás       // 190215 // harbinignacio@gmail.com
 
-Bracho Norberto Alexander  // 189202 // norbertobracho17@gmail.com
+Jara Juan                  // 199595 // skyjuan_20@yahoo.com.ar
+
+Weiss Bruno                // 203570 // bruno.w.163@gmail.com
